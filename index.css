@@ -31,7 +31,7 @@
 
 	width: 40px;
 	height: 40px;
-	border: 2px solid white;
+	border: 2px solid #404040;
 	border-radius: 50%;
 	position: absolute;
 	transition: .5s ease-out;
@@ -43,7 +43,7 @@
 	height: 4px;
 	border-radius: 50%;
 	position: absolute;
-	background: white;
+	background: #404040;
 }
 
 body{
@@ -74,7 +74,7 @@ body{
 	justify-content: center;
 	-ms-align-items: center;
 	align-items: center;
-	color: white;
+	color: #404040;
 	font-size: 20em;
 	font-weight: 200;
 }
@@ -116,7 +116,7 @@ body{
 .contenedor:before{
 
 	display: block;
-	color: white;
+	color: #404040;
 	width: 100%;
 	font-size: 60px;
 	position: absolute;
